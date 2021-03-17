@@ -54,7 +54,8 @@ body {
   left: -75px;
   bottom: 310px;
   z-index: 2;
-  
+
+
 }
 
 .player2 {
@@ -64,6 +65,7 @@ body {
   right: -50px;
   bottom: 270px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
  
 }
